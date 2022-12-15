@@ -9,4 +9,4 @@ COMDORI-HWJ/COMDORI-HWJ is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://raw.githubusercontent.com/comdori-hwj/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+![COMDORI-HWJ's github stats](https://github-readme-stats.vercel.app/api?username=COMDORI-HWJ&show_icons=true)

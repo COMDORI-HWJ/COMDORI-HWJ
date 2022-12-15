@@ -1,10 +1,10 @@
 # 👋🏻Hi there!👋🏻
-- 👋 Hi, I’m @COMDORI-HaWonJi(하원지)
-- 👀 I’m interested in ...
+- 👋 HELLO, I’m @COMDORI-HaWonJi(하원지)
+<!-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+-->
 ## 🧑🏻‍💻Skills🚀
 ### 📚 Tech Stack 📖
 <p>
@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src=" https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>

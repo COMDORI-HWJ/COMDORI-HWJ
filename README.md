@@ -21,23 +21,23 @@
 📚 Tech Stack 📖
 <p>
   
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-the-badge&logo=html5&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-square&logo=oracle&logoColor=white"/>
-  
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COMDORI-HWJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![COMDORI-HWJ's github stats](https://github-readme-stats.vercel.app/api?username=COMDORI-HWJ&show_icons=true) 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COMDORI-HWJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
-<br></br>
+
 ## 🧑🏻‍💻Skills🚀
 <p>
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>

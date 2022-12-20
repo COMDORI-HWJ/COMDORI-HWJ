@@ -54,7 +54,7 @@
 
 </div>
 
-<!-- ![COMDORI-WJ's github stats](https://github-readme-stats.vercel.app/api?username=COMDORI-WJ&show_icons=true) 
+<!-- ![COMDORI-HWJ's github stats](https://github-readme-stats.vercel.app/api?username=COMDORI-HWJ&show_icons=true) 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>

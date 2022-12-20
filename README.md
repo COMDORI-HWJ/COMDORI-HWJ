@@ -4,7 +4,7 @@
 ===
 </div>
 
-- 👋 HELLO, I’m COMDORI-HaWonJi
+- 👋 HELLO, I’m COMDORI-WonJi Ha
 - 🤞🏻 Nice to meet you!
 <!-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

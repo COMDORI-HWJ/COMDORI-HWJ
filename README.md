@@ -27,10 +27,9 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   
-<br> 
+<br> </br>
 
 ## 📚 Tech Stack 📖 
-</br>
 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-the-badge&logo=openjdk&logoColor=white"/>
@@ -43,7 +42,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-square&logo=oracle&logoColor=white"/>
 
-<br>
+<br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COMDORI-WJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

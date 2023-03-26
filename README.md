@@ -6,11 +6,8 @@
 
 - 👋 HELLO, I’m COMDORI-WonJi Ha
 - 🤞🏻 Nice to meet you!
-<!-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
+
+<br>
 <div align="center">
 
 ## 🧑🏻‍💻 Skills 🚀
@@ -30,7 +27,6 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   
-
 <br> 
 
 ## 📚 Tech Stack 📖 
@@ -50,6 +46,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COMDORI-WJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </br>
 
 </div>
@@ -62,3 +59,8 @@
 
 -->
 
+<!-- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+-->
